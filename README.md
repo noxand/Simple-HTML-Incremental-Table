@@ -5,17 +5,17 @@ The task is to make a frontend script to display a table under the following con
 * Automatically add table row when the "ADD ROW" button clicked.
 * Number column must be filled automatically according to row sequence.
    ```bash
-  __________
- |         |
- | ADD ROW |
- |_________|
-  ________________________________
-| NO  |	DESCRIPTION  |	ACTION   |	
-|_____|____________ __|__________|
-|  1  |		          |	         |
-|_____|_______________|__________|
-|  2  |		          |		      |
-|_____|_______________|__________|
-|  3  |		          |          |
-|_____|_______________|__________|
+   _________
+   |    	   |
+   | ADD ROW |
+   |_________|
+   ________________________________
+   | NO  |	DESCRIPTION  |	ACTION   |	
+   |_____|______________|___________|
+   |  1  |		     |		 |
+   |_____|______________|___________|
+   |  2  |		     |		 |
+   |_____|______________|___________|
+   |  3  |		     |		 |
+   |_____|______________|___________|
    ```
