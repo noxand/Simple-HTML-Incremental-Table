@@ -11,7 +11,7 @@ The task is to make a frontend script to display a table under the following con
    | ADD ROW |
    |_________|
    __________________________________
-   | NO  |	DESCRIPTION  |	ACTION   |	
+   | NO  |  DESCRIPTION  |	 ACTION  |	
    |_____|______________|___________|
    |  1  |		     |		 |
    |_____|______________|___________|
