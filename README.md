@@ -1,13 +1,15 @@
-# Simple HTML Table
+# Simple HTML Incremental Table
 This is one of the task of SanberCode Super Bootcamp 2021 selection test.
 
-The task is to make a frontend script to display a table as following:
+The task is to make a frontend script to display a table under the following conditions:
+> Automatically add table row when the "ADD ROW" button clicked.
+> Number column must be filled automatically according to row sequence.
    ```bash
-  _________
+   _________
  |         |
  | ADD ROW |
  |_________|
- ________________________________
+  ________________________________
 | NO  |	DESCRIPTION  |	ACTION   |	
 |_____|______________|___________|
 |  1  |		     |		 |
